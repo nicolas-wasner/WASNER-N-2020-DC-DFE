@@ -7,6 +7,10 @@ body{
     max-width: 1200px;
     margin: auto;
 }
+.content_small{
+    max-width: 900px;
+    margin: auto;
+}
 .header .content{
     display: flex;
     flex-direction: row;
